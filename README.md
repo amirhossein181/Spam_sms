@@ -5,6 +5,6 @@ Blah Blah Blah..! Destroy the enemy..!!
 + pip install tkinter
 + pip install requests
 + and 
-- Blah!
-- Blah!
+- bLaH!
+- blAh!
 - Blah..!!!
